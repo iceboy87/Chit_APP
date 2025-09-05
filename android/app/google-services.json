@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "982296590693",
+    "firebase_url": "https://chitapp-9fcb3-default-rtdb.firebaseio.com",
+    "project_id": "chitapp-9fcb3",
+    "storage_bucket": "chitapp-9fcb3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982296590693:android:d84f9ba24abdac8afd098c",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWKusnfEjpATKzHxvjcCEV-opPdQScQJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
